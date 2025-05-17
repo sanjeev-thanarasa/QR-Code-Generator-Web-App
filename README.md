@@ -22,3 +22,32 @@ A simple React application that allows users to generate QR codes dynamically, c
 ## 📖 How to Use
 
 1. Clone the repository:
+   `https://github.com/sanjeev-thanarasa/QR-Code-Generator-Web-App.git`
+
+2. Navigate to the project folder:
+   `cd react-qr-code-generator`
+
+3. Install dependencies:
+   `npm install`
+
+4. Run the project:
+   `npm run dev`
+
+## 📷 Screenshots
+
+![QR Code Generator Preview](./preview.png)
+
+## 🤝 Contributing
+
+Feel free to **fork** this repository, improve the project, and submit a **pull request**!
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+## 📌 Author
+
+Designed and developed by **Sanjeev Thanarasa**.  
+📌 GitHub: [Sanjeev's GitHub](https://github.com/sanjeev-thanarasa)
+How to Upload to GitHub
+Create a new GitHub repository and name it react-qr-code-generator.
