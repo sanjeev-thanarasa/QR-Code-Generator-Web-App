@@ -34,8 +34,10 @@ A simple React application that allows users to generate QR codes dynamically, c
    `npm run dev`
 
 ## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/1d76a0ab-8805-4e7f-b11b-2d758119a111)
+![image](https://github.com/user-attachments/assets/5455fed7-c610-4871-8dcd-e56ed6744625)
 
-![QR Code Generator Preview](./preview.png)
+
 
 ## 🤝 Contributing
 
