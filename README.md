@@ -25,8 +25,6 @@ A simple yet powerful React application that lets users generate customizable QR
 
 ## 📷 Screenshots
 
-> _(Replace with real links or keep as placeholder if you haven't uploaded yet)_
-
 ![QR Generator Screenshot 1](https://github.com/user-attachments/assets/1d76a0ab-8805-4e7f-b11b-2d758119a111)
 ![QR Generator Screenshot 2](https://github.com/user-attachments/assets/5455fed7-c610-4871-8dcd-e56ed6744625)
 
@@ -66,13 +64,16 @@ A simple yet powerful React application that lets users generate customizable QR
 Hosted on Vercel:
 👉 https://qr-code-generator-web-app-seven.vercel.app
 
+
 ## 🤝 Contributing
 
 Got improvements or ideas? Fork this project, make your changes, and create a pull request. All contributions are welcome! 💡
 
+
 ## 📜 License
 
 Licensed under the MIT License.
+
 
 ## 👨‍💻 Author
 
